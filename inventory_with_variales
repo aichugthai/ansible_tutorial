@@ -1,0 +1,6 @@
+10.225.4.27 apache_package=apache2 php_package=libapache2-mod-php
+10.225.4.28 apache_package=apache2 php_package=libapache2-mod-php
+10.225.4.29 apache_package=apache2 php_package=libapache2-mod-php
+10.207.105.30 apache_package=httpd php_package=php
+10.207.105.31 apache_package=httpd php_package=php
+
